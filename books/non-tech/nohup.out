@@ -1,0 +1,27 @@
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2020-12-13 19:02:24,802 [    341]   WARN - llij.ide.plugins.PluginManager - Resource bundle redefinition for plugin 'com.jetbrains.pycharm.community.customization'. Old value: messages.ActionsBundle, new value: messages.PyBundle 
+2020-12-13 19:02:25,549 [   1088]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: com.intellij] 
+2020-12-13 19:02:25,553 [   1092]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: com.intellij] 
+2020-12-13 19:02:25,553 [   1092]   WARN - nSystem.impl.ActionManagerImpl - keymap "NetBeans 6.5" not found [Plugin: com.intellij] 
+2020-12-13 19:02:25,553 [   1092]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: com.intellij] 
+2020-12-13 19:02:25,571 [   1110]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: IdeaVIM] 
+2020-12-13 19:02:25,571 [   1110]   WARN - nSystem.impl.ActionManagerImpl - keymap "NetBeans 6.5" not found [Plugin: IdeaVIM] 
+2020-12-13 19:02:25,571 [   1110]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: IdeaVIM] 
+2020-12-13 19:02:25,708 [   1247]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: org.jetbrains.plugins.github] 
+2020-12-13 19:02:25,713 [   1252]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: PythonCore] 
+2020-12-13 19:02:25,713 [   1252]   WARN - nSystem.impl.ActionManagerImpl - keymap "NetBeans 6.5" not found [Plugin: PythonCore] 
+2020-12-13 19:02:27,649 [   3188]   WARN -        #com.intellij.idea.Main - can't parse gsettings line: @a(ss) [] 
+
+
+
+
+
+
+
+
+2020-12-13 19:02:29,422 [   4961]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;~/repos/gnn 
+2020-12-13 19:02:29,459 [   4998]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+[1213/190231.911535:FATAL:gpu_data_manager_impl_private.cc(439)] GPU process isn't usable. Goodbye.
+Trace/breakpoint trap (core dumped)
